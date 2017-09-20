@@ -1,0 +1,4 @@
+flask-sqlalchemy==2.2
+sqlalchemy-utils==0.32.16
+pytest==3.2.2
+pytest-cov==2.5.1
